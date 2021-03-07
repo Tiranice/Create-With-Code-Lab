@@ -36,7 +36,8 @@ Milestone 1 — Due 3/7
 - [x] Packages imported
 - [x] Assets imported
 - ↑ Completed 3/4 ↑
-- [ ] Project settings
+- [x] Project settings
+- ↑ Completed 3/6 ↑
 - [ ] Create basic level layout
 - [ ] Add player, monster, and Druug to the scene
 
