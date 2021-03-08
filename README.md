@@ -39,8 +39,8 @@ Milestone 1 — Due 3/7
 - [x] Project settings
 - ↑ Completed 3/6 ↑
 - [x] Create basic level layout
+- [x] Add player, monster, and Druug to the scene
 - ↑ Completed 3/7 ↑
-- [ ] Add player, monster, and Druug to the scene
 
 Milestone 2 — Due 3/14
 : Setup player controls
