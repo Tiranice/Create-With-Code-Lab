@@ -46,10 +46,10 @@ Milestone 2 — Due 3/14
 : Setup player controls
 
 - [ ] Setup New Input System
-- [ ] Setup the move action
-  - [ ] Walk animation
 - [ ] Add a freelook rig to the player prefab
   - [ ] Add the component that make cinemachine work with the new input system
+- [ ] Setup the move action
+  - [ ] Walk animation
 - [ ] Setup attack action
   - [ ] Attack animation
 - [ ] Setup block action
