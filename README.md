@@ -30,7 +30,7 @@ Project Began:  Mar. 4, 2021
 
 ### Project Timeline
 
-Milestone 1 — Due 3/7
+Milestone 1 — Due 3/7 — Complete 3/7
 : Initial setup of a testing grounds scene.
 
 - [x] Packages imported
