@@ -8,6 +8,10 @@ The goal of this lab is to complete a personal project using the basics, <small>
 
 Project Began:  Mar. 4, 2021
 
+Project Suspended due to Hand Injury:  Mar. 16, 2021 — Mar. 29, 2021
+
+I cut my semi-colon hitin' pinky with some garden shiers... it's <sub>mostly</sub> better now.
+
 ### Project Concept
 
 1 — Player Controls
@@ -42,12 +46,13 @@ Milestone 1 — Due 3/7 — Complete 3/7
 - [x] Add player, monster, and Druug to the scene
 - ↑ Completed 3/7 ↑
 
-Milestone 2 — Due 3/14
+Milestone 2 — Due 4/9
 : Setup player controls
 
-- [ ] Setup New Input System
-- [ ] Add a freelook rig to the player prefab
-  - [ ] Add the component that make cinemachine work with the new input system
+- [x] Setup New Input System
+- [x] Add a freelook rig to the player prefab
+  - [x] Add the component that make cinemachine work with the new input system
+- ↑ Completed 3/13 ↑
 - [ ] Setup the move action
   - [ ] Walk animation
 - [ ] Setup attack action
@@ -55,7 +60,7 @@ Milestone 2 — Due 3/14
 - [ ] Setup block action
   - [ ] Block animation
 
-Milestone 3 — Due 3/21
+Milestone 3 — Due 4/18
 : Setup basic gameplay
 
 - [ ] Make the level slightly more complex
@@ -70,7 +75,7 @@ Milestone 3 — Due 3/21
   - [ ] Damage animation
 - [ ] The player can end the game by touching Druug
 
-Milestone 4 — Due 3/28
+Milestone 4 — Due 4/25
 : Sound & Effects
 
 - [ ] Sword attack SFX
@@ -82,7 +87,7 @@ Milestone 4 — Due 3/28
 - [ ] Monster death SFX
 - [ ] Monsters explode into smoke after dieing
 
-Milestone 5 — Due 4/4
+Milestone 5 — Due 5/1
 : Gameplay Mechanics
 
 - [ ] Create three distinct rooms
@@ -93,7 +98,7 @@ Milestone 5 — Due 4/4
 - [ ] Rooms open their doors when enemies are cleared
 - [ ] Physics puzzle does physics puzzle stuff
 
-Milestone 6 — Due 4/11
+Milestone 6 — Due 5/9
 : Gameplay Mechanics
 
 - [ ] Add enemy counter in the top right corner of the screen
@@ -111,7 +116,7 @@ Milestone 6 — Due 4/11
 - [ ] The game ends when the player loses all their health
 - [ ] The game ends when Druug is rescued
 
-Backlog — Due 4/25
+Backlog — Due 5/16
 : Additional enemies, running, jumping, and keys
 
 - [ ] Add a second enemy
